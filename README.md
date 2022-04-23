@@ -2,4 +2,4 @@
 
 ☄ Full stack Student
 
-it was always dope
+it was always me
