@@ -2,12 +2,12 @@
 
 ☄ Full stack Student
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/961779173913944094?idleMessage=It%20was%20always%20me)](https://discord.com/users/961779173913944094)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif">
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/961779173913944094?idleMessage=It%20was%20always%20me)](https://discord.com/users/961779173913944094)
 
 <h1 align="center">Main Langages</h1>
 
