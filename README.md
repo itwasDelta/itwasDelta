@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif">
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/961779173913944094?idleMessage=It%20was%20always%20me)](https://discord.com/users/961779173913944094)
+[![Discord Presence](https://lanyard.cnrad.dev/api/710248890091438150?idleMessage=It%20was%20always%20me)](https://discord.com/users/710248890091438150)
 
 <h1 align="center">Main Langages</h1>
 
